@@ -1,0 +1,15 @@
+@import "slider.css";
+body{
+    margin: 0px;
+}
+.menu{
+    width: 100%;
+    height: 105px;
+    background-color: #ECECEC;
+    font: normal normal bold 27px/32px Work Sans;
+    letter-spacing: 1.19px;
+    color: #DADADA;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
